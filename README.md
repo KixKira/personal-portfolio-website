@@ -1,6 +1,6 @@
 # Demo
 
-personal-portfolio-kixkira.vercel.app
+https://personal-portfolio-kixkira.vercel.app
 
 # React + Vite
 
